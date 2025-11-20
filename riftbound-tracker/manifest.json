@@ -1,0 +1,16 @@
+{
+    "name": "Riftbound Tracker",
+    "short_name": "Riftbound",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#0f0b15",
+    "theme_color": "#0f0b15",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/1828/1828884.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
